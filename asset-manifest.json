@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "aminebenaceur.github.io/todo/static/css/main.5bb6ea30.chunk.css",
+    "main.js": "aminebenaceur.github.io/todo/static/js/main.f0c2889c.chunk.js",
+    "main.js.map": "aminebenaceur.github.io/todo/static/js/main.f0c2889c.chunk.js.map",
+    "runtime~main.js": "aminebenaceur.github.io/todo/static/js/runtime~main.e219ef85.js",
+    "runtime~main.js.map": "aminebenaceur.github.io/todo/static/js/runtime~main.e219ef85.js.map",
+    "static/js/2.3580c089.chunk.js": "aminebenaceur.github.io/todo/static/js/2.3580c089.chunk.js",
+    "static/js/2.3580c089.chunk.js.map": "aminebenaceur.github.io/todo/static/js/2.3580c089.chunk.js.map",
+    "index.html": "aminebenaceur.github.io/todo/index.html",
+    "precache-manifest.3d240be0fc10c81dfbaab492e06ab01d.js": "aminebenaceur.github.io/todo/precache-manifest.3d240be0fc10c81dfbaab492e06ab01d.js",
+    "service-worker.js": "aminebenaceur.github.io/todo/service-worker.js",
+    "static/css/main.5bb6ea30.chunk.css.map": "aminebenaceur.github.io/todo/static/css/main.5bb6ea30.chunk.css.map"
+  }
+}
