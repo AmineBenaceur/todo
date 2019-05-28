@@ -49,7 +49,7 @@ class App extends React.Component {
       title:title,
       completed:false
     })
-    .then(res => this.setState( {todos: [...this.state.todos, res.data ]} ) );// this operater copies old state and adds item to it
+    .then(res => this.setState( {todos: [...this.state.todos, res.data ]} ) ); // this operater copies old state and adds item to it
   }
 
   render() {

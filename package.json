@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "  https://github.com/AmineBenaceur/ToDoList/upload",
+  "homepage":"aminebenaceur.github.io/todo/",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.8.6",
@@ -12,8 +12,8 @@
     "uuid": "^3.3.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "yarn run build",
+    "start": "PORT=3006 react-scripts start",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
